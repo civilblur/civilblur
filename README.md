@@ -1,8 +1,8 @@
 ### Frontend developer / UX Designer
 
-Business inquires: githello﻿（at）mazanoke.com
+Business inquires: `githello﻿（at）mazanoke.com`
 
-Featured on:
+## Featured on:
 |                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/user-attachments/assets/eb09fedd-0775-4dd1-94d9-872ef48345bb" alt="MAZANOKE on Tailscale video" height="150">](https://www.youtube.com/watch?v=W5JgLGlY-6k) </br> Tailscale </br> "*An ad free, self-hosted, privacy-respecting</br>application [...] it's very exciting for me.*" | [<img src="https://github.com/user-attachments/assets/a5c76675-4223-41b0-bcb6-29b50316c0d8" alt="MAZANOKE on LINUX Unplugged podcast" height="150">](https://linuxunplugged.com/615?t=3544) </br> LINUX Unplugged </br> "*How clean and simple is that?</br>Super spousal approval factor here.*" |
