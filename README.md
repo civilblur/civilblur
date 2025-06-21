@@ -1,4 +1,4 @@
-### Frontend developer / UX Designer
+### Frontend Developer / UX Designer
 
 Business inquires: `githello﻿（at）mazanoke.com`
 
