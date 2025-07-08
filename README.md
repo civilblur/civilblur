@@ -2,8 +2,9 @@
 
 Business inquires: `githello﻿（at）mazanoke.com`
 
-![image]()
-
+Currently working on:
+- **[MAZANOKE](https://github.com/civilblur/mazanoke)**: Privacy-respecting image compressor
+- **[Youlag](https://github.com/civilblur/youlag)**: FreshRSS extension for viewing videos from video feeds
 
 ## Featured on:
 |                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                         |
