@@ -4,7 +4,7 @@ Business inquires: `githello﻿（at）mazanoke.com`
 
 Currently working on:
 - **[MAZANOKE](https://github.com/civilblur/mazanoke)**: Privacy-respecting, self-hosted local image optimizer that runs in your browser.
-- **[Youlag](https://github.com/civilblur/youlag)**: FreshRSS extension for viewing videos from video feeds
+- **[Youlag](https://github.com/civilblur/youlag)**: FreshRSS extension for viewing videos from video feeds.
 
 ## Featured on:
 |                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                         |
